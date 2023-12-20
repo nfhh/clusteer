@@ -19,7 +19,7 @@ class ServeClusteer extends Command
         {--default-timeout : The default timeout, in seconds, for any page\'s crawling.}
         {--chromium-path= : The path to the Chromium path.}
         {--node-path=$(which node) : The path to the node executable.}
-        {--js-file-path=vendor/renoki-co/clusteer/server.js : The path for the JS file to run.}
+        {--js-file-path=vendor/nfhh/clusteer/server.js : The path for the JS file to run.}
         {--show : Display the command that will run instead of running it}
     ';
 
